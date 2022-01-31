@@ -1,1 +1,0 @@
-chrome.tabs.create({url: chrome.extension.getURL("pages/export_page/index.html")});
